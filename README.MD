@@ -22,6 +22,7 @@ This device is a miniaturised NFC tag that enables the reading of temperature fr
 -   2 x TMP117
 -   3 x Tuning Cap (C1-3)
 -   3 x Smoothing Cap (C4-C6)
+-   1 x Current Limiting Resistor
 -   1 x IN-S124AR LED
 
 ## Schematic
